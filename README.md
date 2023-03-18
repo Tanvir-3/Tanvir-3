@@ -1,6 +1,6 @@
 ![Graphic Designer](https://media.licdn.com/dms/image/D5616AQFOPLb1kupeQA/profile-displaybackgroundimage-shrink_350_1400/0/1670745251627?e=1676505600&v=beta&t=6EIYw5iDWQDYUuvAL7C9f1BTmMfzkb2ssFEpVS9WsH8)
 ### Hi there 👋, i'm Tanvir Hossin
-#### Graphic Designer
+#### Web Designer
 
 
 I am learning web development. I finished learning HTML. I am learning CSS now. Besides, I am working on the Graphic Design
